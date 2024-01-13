@@ -1,0 +1,1 @@
+{"version":3,"file":"create_rooms.js","sourceRoot":"","sources":["../../../src/database/seeds/create_rooms.ts"],"names":[],"mappings":";;;;;;;;;;;;AAEA,SAAsB,IAAI,CAAC,IAAS;;QAChC,MAAM,IAAI,CAAC,OAAO,CAAC,CAAC,MAAM,CAAC;YACvB,IAAI,EAAE,eAAe;YACrB,QAAQ,EAAE,iBAAiB;SAC9B,CAAC,CAAA;IACN,CAAC;CAAA;AALD,oBAKC"}
